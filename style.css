@@ -1,0 +1,21 @@
+body {
+      text-align: center;
+      font-family: sans-serif;
+      margin-top: 50px;
+    }
+    #count {
+      font-size: 40px;
+      color: darkblue;
+      margin: 20px 0;
+    }
+    h2{
+        color: rgb(255, 77, 0);
+    }
+    button {
+      padding: 10px 20px;
+      margin: 10px;
+      font-size: 16px;
+      cursor: pointer;
+      border-radius: 8px;
+      background-color: rgb(89, 210, 97);
+    }
